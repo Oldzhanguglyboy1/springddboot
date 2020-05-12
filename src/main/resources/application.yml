@@ -1,0 +1,18 @@
+server:
+  port: 8888
+offcn_ip:
+    1.1.1.1
+offcn_port:
+    9999
+userbody:
+    name: 优就业
+    password: 123456
+    birthday: 1992.10.28
+    mobile: 13802789765
+    address: 北京市朝阳区
+spring:
+  profiles:
+    active: prod
+  messages:
+    encoding: utf-8
+    basename: message_zh_CN
