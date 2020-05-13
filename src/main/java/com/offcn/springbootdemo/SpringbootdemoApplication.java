@@ -15,7 +15,6 @@ public class SpringbootdemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringbootdemoApplication.class, args);
-        System.out.println("我是1.0版");
-        System.out.println("我是2.0");
+        System.out.println("我是正式版");
     }
 }
