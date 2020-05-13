@@ -15,7 +15,7 @@ public class SpringbootdemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringbootdemoApplication.class, args);
-        System.out.println("我是正式版");
         System.out.println("啦啦啦");
+        System.out.println("我是正式版ooooooo");
     }
 }
